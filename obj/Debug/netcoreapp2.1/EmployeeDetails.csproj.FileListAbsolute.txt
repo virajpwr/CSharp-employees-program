@@ -1,0 +1,11 @@
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.1\EmployeeDetails.deps.json
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.1\EmployeeDetails.runtimeconfig.json
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.1\EmployeeDetails.runtimeconfig.dev.json
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.1\EmployeeDetails.dll
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp2.1\EmployeeDetails.pdb
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.1\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.1\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.1\EmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.1\EmployeeDetails.AssemblyInfo.cs
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.1\EmployeeDetails.dll
+C:\Users\VirajPawar\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp2.1\EmployeeDetails.pdb
